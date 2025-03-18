@@ -1,20 +1,26 @@
-Hawk Eye Astro Site
+# Hawk Eye Astro Site
 
-This repository contains an Astro-powered website built from Notion exports. It serves as the central hub for Hawk Eye The Rapper.
+This repository contains an **Astro-powered website** built from Notion exports. It serves as the **central hub** for Hawk Eye The Rapper.
 
-🚀 Setup Instructions
+## 🚀 Setup Instructions
 
-Install dependencies:
+1. Install dependencies:
+   ```sh
+   npm install
+   ```
 
-npm install
-Start the development server:
+2. Start the development server:
+   ```sh
+   npm run dev
+   ```
 
-npm run dev
-Build for production:
+3. Build for production:
+   ```sh
+   npm run build
+   ```
 
-npm run build
-🌐 Deployment
+## 🌐 Deployment
 
-Hosted on Cloudflare Pages
-Uses Markdown-based content from Notion
-Supports fast static rendering for SEO optimization
+- Hosted on **Cloudflare Pages**
+- Uses **Markdown-based content from Notion**
+- Supports **fast static rendering for SEO optimization**
